@@ -6,7 +6,7 @@ public class hewan {
     private String aktivitas;
 
     void cetak(){
-        System.out.println("Nama Hewan \t: "+nama+"\n"+
+        System.out.println("Nama hewan \t: "+nama+"\n"+
                            "Golongan \t: "+golongan+"\n"+
                            "Aktivitas \t: "+aktivitas);
     }
