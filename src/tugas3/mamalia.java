@@ -6,11 +6,8 @@ public class mamalia extends hewan{
     private String panjat;
     private String lari;
     
-    void ciri(){
-        System.out.println("Beranak");
-        System.out.println("4");
-        System.out.println("Bisa");
-        System.out.println("Bisa");
+    void suara(){
+        System.out.println("meowwwwwww");
     }
 
     public String getbiak() {
